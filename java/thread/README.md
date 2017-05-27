@@ -1,5 +1,5 @@
 #### 1、线程的状态转换
-[线程转换](https://cloud.githubusercontent.com/assets/14313582/26517424/c077b30a-42ca-11e7-8e09-898d6a68be4d.jpg)                                                             
+![线程转换](https://cloud.githubusercontent.com/assets/14313582/26517424/c077b30a-42ca-11e7-8e09-898d6a68be4d.jpg)                                                             
 #### 2、线程同步
 Question :java中原子性操作(非原子性操作在多线程中都可能被其他线程打断)
 
